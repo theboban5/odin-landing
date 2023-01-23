@@ -1,0 +1,14 @@
+/* styles.css */
+
+body {
+    display: flex;
+}
+
+h1, h2 {
+    background-color: aqua;
+    color: blue;
+}
+
+body2 {
+    background-color: beige;
+}
