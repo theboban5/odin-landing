@@ -1,14 +1,42 @@
 /* styles.css */
 
-body {
-    display: flex;
+.top-banner {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 20px;
 }
 
-h1, h2 {
-    background-color: aqua;
-    color: blue;
+.header {
+    background-color: brown;
+    text-align: center;
 }
 
-body2 {
-    background-color: beige;
+.pictures {
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+}
+
+.description {
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+}
+
+.quote {
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 20px;
+}
+
+.action {
+    background-color: pink;
+    text-align: center;
+    padding: 20px;
+}
+
+.bottom-banner {
+    background-color: orangered;
+    text-align: center;
+    padding: 20px;
 }
