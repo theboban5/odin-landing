@@ -1,42 +1,78 @@
 /* styles.css */
 
-.top-banner {
-    background-color: blueviolet;
-    text-align: center;
-    padding: 20px;
+* {
+    background-color: white;
+    margin: 0;
 }
 
-.header {
-    background-color: brown;
+.top-banner {
+    height: auto;
+    border: 5px;
+}
+
+.logo {
+    background-color: #1F2937;
+    color: white;
+    font-size: 24px;
+}
+
+.links {
+    background-color: #1F2937;
+    color: white;
+    font-size: 18px;
+    text-align: right;
+}
+
+.hero {
+    background-color: #1F2937;
+    color: white;
     text-align: center;
+    height: 150px;
+    font-size: 48px;
+}
+
+.hero-sub {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    height: 150px;
+    font-size: 18px;
 }
 
 .pictures {
-    background-color: blue;
+    background-color: white;
     text-align: center;
     padding: 20px;
+    height: 150px;
+    font-size: 36px;
 }
 
 .description {
-    background-color: blue;
+    background-color: white;
     text-align: center;
     padding: 20px;
 }
 
 .quote {
-    background-color: yellowgreen;
+    background-color: #E5E7EB;
     text-align: center;
     padding: 20px;
+    font-size: 36px;
+    height: 150px;
 }
 
 .action {
-    background-color: pink;
+    background-color: #3882F6;
+    color: white;
     text-align: center;
     padding: 20px;
+    height: 120px;
 }
 
 .bottom-banner {
-    background-color: orangered;
+    background-color: #1F2937;
+    color: white;
     text-align: center;
     padding: 20px;
+    height: auto;
 }
